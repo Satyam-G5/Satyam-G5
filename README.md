@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN , Tailwind CSS , Typescript , Javascript**
 
-- 📫 How to reach me **satyamshukla4916@gmail.com**
+- 📫 Reach me on **satyamshukla4916@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
