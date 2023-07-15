@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Shukla</h1>
 <h3 align="center">An ambitious MERN Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [Traveller](https://github.com/Satyam-G5/project-traveller.com)
+- 🔭 Seeking Open-Source Startup Internship | Eager to Contribute to Tech Innovation .
 
 - 🌱 I’m currently learning **Golang , Postgresql**
 
