@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Shukla</h1>
-<h3 align="center">An ambitious MERN Stack Developer from India</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 - 🔭 Seeking Open-Source Startup Internship | Eager to Contribute to Tech Innovation .
 
