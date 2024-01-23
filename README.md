@@ -3,9 +3,9 @@
 
 - 🔭 Seeking Open-Source Startup Internship | Eager to Contribute to Tech Innovation .
 
-- 🌱 I’m currently learning **Golang , Postgresql**
+- 🌱 I’m currently learning **Webrtc , Redis**
 
-- 💬 Ask me about **MERN , Tailwind CSS , Typescript , Javascript**
+- 💬 Ask me about **MERN, PERN , Tailwind CSS , Typescript , Javascript**
 
 - 📫 Reach me on **satyamshukla4916@gmail.com**
 
